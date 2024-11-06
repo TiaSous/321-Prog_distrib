@@ -27,5 +27,3 @@ Episode laMortDeBob = new Episode
 
 
 Serie roadToMaster = new Serie();
-
-roadToMaster.LoadJsonAllEpisodes("C:\\Users\\pd51pyb\\Downloads\\Lol-Ranked-Episodes.json");
